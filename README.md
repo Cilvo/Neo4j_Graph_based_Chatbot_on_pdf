@@ -31,7 +31,7 @@ Information Extractor is a Streamlit application that leverages NLP and machine 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/information-extractor.git
+    git clone https://github.com/Cilvo/Neo4j_Graph_based_Chatbot_on_pdf.git
     cd information-extractor
     ```
 
